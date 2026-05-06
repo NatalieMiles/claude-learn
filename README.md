@@ -6,7 +6,7 @@ An active learning system for Claude Code that turns coding sessions into durabl
 
 Claude Code makes you productive fast. You build things, ship features, fix bugs. But there's a gap between *doing* and *understanding*. You can use a git worktree without knowing why it helps. You can accept a hook configuration without understanding when a skill would be better. You can fix an error without learning what caused it.
 
-Anthropic's own research ([AI Fluency Index](https://www.anthropic.com/research/ai-fluency)) found the same pattern at scale: **Description** skills (telling AI what you want) grow naturally with practice, but **Discernment** skills (evaluating whether the output is correct) do not. You can use Claude every day for months and still be bad at spotting when it's confidently wrong.
+Anthropic's own research ([Getting Good at Claude: A Research-Backed Curriculum](https://claude.com/resources/tutorials/getting-good-at-claude-a-research-backed-curriculum)) found the same pattern at scale: **Description** skills (telling AI what you want) grow naturally with practice, but **Discernment** skills (evaluating whether the output is correct) do not. You can use Claude every day for months and still be bad at spotting when it's confidently wrong.
 
 A TikTok creator named Logan ([@loganinthefuture](https://www.tiktok.com/@loganinthefuture)) put it more bluntly: "I did not go and put queries into Claude, because I know that is not enough to actually learn. That can be like 'spot learning.' But if you want to actually understand something, you need active learning mode, which involves a lot of friction."
 
